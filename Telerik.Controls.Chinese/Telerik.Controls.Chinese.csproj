@@ -3,7 +3,9 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Authors>tchivs</Authors>
+	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+
+	  <Authors>tchivs</Authors>
     <Product>Telerik.Controls.Chinese</Product>
     <Description>Telerik WPF Controls 中文汉化包
 </Description>
