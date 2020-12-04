@@ -8,6 +8,11 @@
     <Description>Telerik WPF Controls 中文汉化包
 </Description>
     <NeutralLanguage>zh</NeutralLanguage>
+    <Copyright>MIT</Copyright>
+    <PackageProjectUrl>https://github.com/tchivs/Telerik.Controls.Chinese</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/tchivs/Telerik.Controls.Chinese</RepositoryUrl>
+    <RepositoryType>GIT</RepositoryType>
+    <PackageReleaseNotes>Telerik WPF Controls 中文汉化包</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
