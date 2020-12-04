@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telerik.Controls.Chinese", "Telerik.Controls.Chinese\Telerik.Controls.Chinese.csproj", "{86FB2F2C-67CB-462D-967A-7EDD61A7CA3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86FB2F2C-67CB-462D-967A-7EDD61A7CA3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FB2F2C-67CB-462D-967A-7EDD61A7CA3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FB2F2C-67CB-462D-967A-7EDD61A7CA3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FB2F2C-67CB-462D-967A-7EDD61A7CA3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D26B716-5EBF-453D-B3EC-F62E1893EFC0}
+	EndGlobalSection
+EndGlobal
